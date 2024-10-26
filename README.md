@@ -51,6 +51,5 @@ Terjadi saat program dijalankan.
 ![alt text](https://github.com/Habibsuprayoga325/polimorfisme/blob/main/ss6.png?raw=true)
 
 
-# Selesai & Terimakasih.
 
   
